@@ -1,0 +1,113 @@
+//    private static boolean isValidChinaNumber(String number) {
+//        return number.matches("^(1\\d{10})|(9\\d{10})$");
+//
+//
+//    }
+//
+//    private static boolean isValidIndiaNumber(String number) {
+//        return number.matches("^([789])\\d{9}$");
+//
+//
+//    }
+//
+//    private static boolean isValidJapanNumber(String number) {
+//        return number.matches("^(70|80|90)\\d{8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidBrazilNumber(String number) {
+//        return number.matches("(11|[1-9])?\\d{8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidSouthAfricaNumber(String number) {
+//        return number.matches("^([678])\\d{8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidAustraliaNumber(String number) {
+//        return number.matches("^(4\\d{8})|(4[1-9])\\d{7}$");
+//
+//
+//    }
+//
+//    private static boolean isValidSouthKoreaNumber(String number) {
+//        return number.matches("^1([016789])\\d{7,8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidMexicoNumber(String number) {
+//        return number.matches("^(1\\d{10})$");
+//
+//
+//    }
+//
+//    private static boolean isValidIndonesiaNumber(String number) {
+//        return number.matches("^(8\\d{8,9})$");
+//
+//
+//    }
+//
+//    private static boolean isValidNigeriaNumber(String number) {
+//        return number.matches("^(7\\d{9})|(8\\d{9})|(9\\d{9})$");
+//
+//
+//    }
+//
+//    private static boolean isValidSriLankaNumber(String number) {
+//        return number.matches("^(7\\d{8})|(7[1-9])\\d{7}$");
+//
+//
+//    }
+//
+//    private static boolean isValidThailandNumber(String number) {
+//        return number.matches("^([689])\\d{8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidMalaysiaNumber(String number) {
+//        return number.matches("^(1\\d{8,9})|(6\\d{7})$");
+//
+//
+//    }
+//
+//    private static boolean isValidPhilippinesNumber(String number) {
+//        return number.matches("^(9\\d{9})|(9[0-3])\\d{8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidSingaporeNumber(String number) {
+//        return number.matches("^(8\\d{7})|(9\\d{7})$");
+//
+//
+//    }
+//
+//    private static boolean isValidVietnamNumber(String number) {
+//        return number.matches("^([35789])\\d{8,9}$");
+//
+//
+//    }
+//
+//    private static boolean isValidMyanmarNumber(String number) {
+//        return number.matches("^(9\\d{8,9})$");
+//
+//
+//    }
+//
+//    private static boolean isValidPakistanNumber(String number) {
+//        return number.matches("^(3\\d{9})|(3[0-3])\\d{8}$");
+//
+//
+//    }
+//
+//    private static boolean isValidKiwiNumber(String number) {
+//        return number.matches("^(2\\d{7})|(2[1-9])\\d{6}$");
+//
+
+//    }
